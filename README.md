@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegoodsheppard
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that make an impact
 - 📫 How to reach me: send me a message
 - 😄 Pronouns: they/them
